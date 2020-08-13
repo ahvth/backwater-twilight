@@ -1,0 +1,21 @@
+/***************************************************/
+/* Backwater Gtk3 theme                            */
+/* ison: July-2018                                 */
+/***************************************************/
+/***************************************************/
+/* backwater-twilight                              */
+/* ahvth: August-2020                              */
+/***************************************************/
+/* Based on:           */
+/*   Solaris Colours   */
+/*   BellePintosGrande */
+/*   raleigh-reloaded  */
+/*   OneStepBack       */
+/***********************/
+
+@import url("colors.css");
+
+/* All 4 themes have identical widgits.css
+ * except for "midnight" which has +0.1 shade on all borders (except scale trough)
+ * and -0.1 shade on tabs */
+@import url("widgets.css");
